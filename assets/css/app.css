@@ -1475,7 +1475,7 @@ footer .footer-widget-heading.heading-light {
 }
 
 .footer-top-layout1 .footer-menu li a {
-  color: #646464;
+  color: #ffffff;
   display: block;
   padding: 5px 0;
   -webkit-transition: all 0.3s ease-in-out;
@@ -1484,7 +1484,7 @@ footer .footer-widget-heading.heading-light {
 }
 
 .footer-top-layout1 .footer-menu li a:hover {
-  color: #571aff;
+  color: #ff422a;
 }
 
 .footer-top-layout1 .footer-contact li {
@@ -6261,8 +6261,8 @@ nav.template-main-menu > ul > li > ul > li:hover ul.third-level {
           justify-content: center;
   background-color: transparent;
   border: 2px solid;
-  border-color: #571aff;
-  color: #571aff;
+  border-color: #ff422a;
+  color: #ff422a;
   -webkit-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
@@ -6275,7 +6275,7 @@ nav.template-main-menu > ul > li > ul > li:hover ul.third-level {
   -webkit-transform: translateX(0px);
       -ms-transform: translateX(0px);
           transform: translateX(0px);
-  color: #571aff;
+  color: #ff422a;
   -webkit-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
@@ -6287,7 +6287,7 @@ nav.template-main-menu > ul > li > ul > li:hover ul.third-level {
 
 .btn-ghost:hover {
   color: #ffffff;
-  background-color: #571aff;
+  background-color: #ff422a;
 }
 
 .btn-ghost:hover i {
@@ -10072,13 +10072,13 @@ ul.pagination-layout2 .center-btn a:hover {
 
 @media only screen and (max-width: 575px) {
   .main-banner-box-layout1 {
-    margin-top: 30px;
+    margin-top: 0px;
     text-align: center;
   }
 }
 
 .main-banner-box-layout1 .item-figure {
-  margin-top: 50px;
+  margin-top: 0px;
   -webkit-animation: up_down 15s infinite;
           animation: up_down 15s infinite;
   -webkit-animation-delay: 4s;
@@ -26363,7 +26363,7 @@ ul.pagination-layout2 .center-btn a:hover {
 }
 
 .banner-text {
-  padding-bottom: 80px;
+  padding-bottom: 10px;
 }
 
 .banner-text-heading {

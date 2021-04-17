@@ -26488,3 +26488,24 @@ body {
   border-radius: 10px;
   padding-bottom: 10px;
 }
+
+
+/*
+* ==================================================
+* Hide menu item
+* ==================================================
+*/
+
+/* Hide element on Desktop */
+@media only screen and (min-width: 981px) {
+  .hide-on-desktop {
+      display: none !important;
+  }
+}
+
+/* Hide element on Tablet/Phone */
+@media only screen and (max-width: 980px) {
+  .hide-on-mobile-tablet {
+      display: none !important;
+  }
+}
